@@ -1,0 +1,14 @@
+# 数据库地址
+DATABASE_HOST  = 'localhost'
+
+# 端口号
+DATABASE_PORT = 3306
+
+# 数据库名称
+DATABASE_NAME = 'blog'
+
+# 用户名
+DATABASE_USER = 'root'
+
+# 密码
+DATABASE_PASSWORD = 'root'
